@@ -31,11 +31,6 @@ Also in regular use: Temporal, Hibernate/JPA, DynamoDB, BigQuery, Vertex AI, and
 - [**Open-Forum-WebApp**](https://github.com/Suhas-C-V/Open-Forum-WebApp) — a forum where users post, vote, comment and earn badges for activity.
 - [**weather-connect**](https://github.com/Suhas-C-V/weather-connect) — a Spring Boot service that fetches, formats and serves weather data from RapidAPI.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suhas-C-V/Suhas-C-V/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Suhas-C-V/Suhas-C-V/output/snake.svg" width="100%" alt="Animated snake eating my GitHub contribution graph">
-</picture>
-
 ### Say hello
 
 [LinkedIn](https://www.linkedin.com/in/suhas-c-v) · B.E. Computer Science, CMR Institute of Technology (2021)
